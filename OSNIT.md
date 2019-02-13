@@ -17,7 +17,7 @@
 
 ### The Common Vulnerabilities and Exposures (CVE) List
 - list of vulnerabilities by name, number, and description.
-ex:	CVE-[YEAR]-[NUMBER]
+- ex:	CVE-[YEAR]-[NUMBER]
 	CVE-2017-5754
 	
 ### The Common Weakness Enumeration (CWE)

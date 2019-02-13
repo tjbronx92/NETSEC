@@ -14,6 +14,7 @@
 - U.S. not-for-profit corporation that performs federally funded research and development.
 
 ### Common Attack Pattern Enumeration and Classification (CAPEC) 
+- allows users to search attacks by their mechanism or domain and then breaks down each attack by various attributes and prerequisites. It also suggests solutions and mitigations.
 
 ### The Common Vulnerabilities and Exposures (CVE) List
 - list of vulnerabilities by name, number, and description.
